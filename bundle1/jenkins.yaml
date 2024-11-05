@@ -1,4 +1,4 @@
 jenkins:
-  systemMessage: "Welcome to CloudBees CI - bundle 1, v2"
+  systemMessage: "Welcome to CloudBees CI - bundle 1, v3"
   clouds:
   - operationsCenterAgentProvisioningService
